@@ -3,3 +3,8 @@
 .chatbox {
     height: 450px;
 }
+
+#messages {
+    height: 15em;
+    overflow: auto; //THIS ALLOWS FOR THE SCROLL BAR IN THE MESSAGES WINDOW
+}
